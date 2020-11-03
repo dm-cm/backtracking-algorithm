@@ -1,5 +1,4 @@
-
-# Backtracking Algorithm
+![Alt text](images/backtrack.png?raw=true "backtrack")
 
 ## Info
 
